@@ -1,4 +1,4 @@
-# Pipeline for Alpha and Beta Cell Stuctural Analysis using Soft X-ray Tomography
+# Pipeline for Alpha and Beta Cell Structural Analysis using Soft X-ray Tomography
 This repository describes analysis to use supervised machine learnine to classify vesicles from Alpha and Beta cells. Feature importances can be extracted from these machine learning models and then visualized using UMAP (Uniform Manifold Approximation and Projection). UMAP is also used on whole alpha and beta cells to visualize clusters of cell types. 
 
 Contact email: kchang42@usc.edu
