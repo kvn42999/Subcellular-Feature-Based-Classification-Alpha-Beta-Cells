@@ -1,6 +1,8 @@
-# Alpha and Beta Cell Stuctural Analysis
-- Code for UMAP and Supervised Machine Learning of Soft Xray Tomography Datasets
+# Pipeline for Alpha and Beta Cell Stuctural Analysis using Soft X-ray Tomography
+This repository describes analysis to use supervised machine learnine to classify vesicles from Alpha and Beta cells. Feature importances can be extracted from these machine learning models and then visualized using UMAP (Uniform Manifold Approximation and Projection). UMAP is also used on whole alpha and beta cells to visualize clusters of cell types. 
 
-- Two entries describe UMAP for Whole Cell Metrics and Individual Vesicle Characteristics
+# Code Breakdown
 
-- The other entry describes Machine Learning using Random Forest, Logistic Regression, and XGBoost
+- 3D Vesicle Metrics: Creating UMAP representation of vesicle data. Vesicle are colored by insulin/glucagon vesicle identity, which cell they originate from, and by vesicle feature values.
+- Random Forests, XGBoost, Logistic Regression: Using these 3 models to predict whether a given group of vesicles from an alpha or beta cell is a glucagon vesicle or insulin vesicle. An application of this model is to predict the identity of an unknown cell. 
+- UMAP of Primary Alpha and Beta: UMAP representation of whole cell metrics. 
