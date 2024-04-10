@@ -9,4 +9,6 @@ Laboratory: Kate White Lab at USC (https://www.katewhitelab.com/)
 
 - 3D Vesicle Metrics: Creating UMAP representation of vesicle data. Vesicle are colored by insulin/glucagon vesicle identity, which cell they originate from, and by vesicle feature values.
 - Random Forests, XGBoost, Logistic Regression: Using these 3 models to predict whether a given group of vesicles from an alpha or beta cell is a glucagon vesicle or insulin vesicle. An application of this model is to predict the identity of an unknown cell. 
-- UMAP of Primary Alpha and Beta: UMAP representation of whole cell metrics. 
+- UMAP of Primary Alpha and Beta: UMAP representation of whole cell metrics.
+
+Python version 3.10.9
