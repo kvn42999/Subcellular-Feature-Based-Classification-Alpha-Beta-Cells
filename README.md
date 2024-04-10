@@ -3,6 +3,8 @@ This repository describes analysis to use supervised machine learnine to classif
 
 Contact email: kchang42@usc.edu
 
+Laboratory: Kate White Lab at USC (https://www.katewhitelab.com/)
+
 # Code Breakdown
 
 - 3D Vesicle Metrics: Creating UMAP representation of vesicle data. Vesicle are colored by insulin/glucagon vesicle identity, which cell they originate from, and by vesicle feature values.
