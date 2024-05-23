@@ -5,6 +5,8 @@ Contact email: kchang42@usc.edu
 
 Laboratory: Kate White Lab at USC (https://www.katewhitelab.com/)
 
+Our paper has been published in MDPI Cells! https://www.mdpi.com/2073-4409/13/10/869
+
 # Code Breakdown
 
 - 3D Vesicle Metrics: Creating UMAP representation of vesicle data. Vesicle are colored by insulin/glucagon vesicle identity, which cell they originate from, and by vesicle feature values.
