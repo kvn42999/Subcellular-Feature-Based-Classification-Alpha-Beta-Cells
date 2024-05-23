@@ -15,12 +15,12 @@ Python version 3.10.9
 
 # Packages Used 
 
-sklearn (version 1.4):
-RandomForestClassifier
-GridSearchCV
-LeaveOneGroupOut
+-sklearn (version 1.4):
+RandomForestClassifier,
+GridSearchCV,
+LeaveOneGroupOut,
 LogisticRegression
 
-XGBoost (xgboost v2.0.3)
+-XGBoost (xgboost v2.0.3)
 
-Bayesian Optimization (BayesianOptimization v1.4.3)
+-Bayesian Optimization (BayesianOptimization v1.4.3)
