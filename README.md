@@ -12,3 +12,15 @@ Laboratory: Kate White Lab at USC (https://www.katewhitelab.com/)
 - UMAP of Primary Alpha and Beta: UMAP representation of whole cell metrics.
 
 Python version 3.10.9
+
+# Packages Used 
+
+sklearn (version 1.4):
+RandomForestClassifier
+GridSearchCV
+LeaveOneGroupOut
+LogisticRegression
+
+XGBoost (xgboost v2.0.3)
+
+Bayesian Optimization (BayesianOptimization v1.4.3)
